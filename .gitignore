@@ -1,0 +1,20 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Binarios y carpetas de compilación
+bin/
+obj/
+
+# Configuraciones personales
+*.db
+*.sqlite
+*.log
+
+# Configuración de Rider/ReSharper
+.idea/
+
+# Archivos generados por el sistema
+Thumbs.db
+Desktop.ini
