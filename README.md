@@ -9,9 +9,3 @@ Desarrollado con **ASP.NET Core Web API** y **Entity Framework Core**.
 - CORS habilitado para frontend en Angular
 
 ---
-
-## Requisitos
-
-
-
-
